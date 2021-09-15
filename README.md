@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @SaabK
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-SaabK/SaabK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, My Name is Ali Bin Naseer. I am 14 years old. 
+I've learned Programming, Web Development (Still Learning) And Graphic Designing
+I am always learning new stuff. I am currently learning 3D Modeling, More Graphic Designing and Web Development
+I am from Pakistan, and i love to work from home.

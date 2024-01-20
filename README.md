@@ -22,7 +22,7 @@
 
 - 📫 How to reach me: **ContactIbnNaseer@gmail.com**
 
-- 📄 Know about my experiences: [https://ibn-naseer.vercel.app/](https://ibn-naseer.vercel.app/)
+- 📄 Know about my experiences: [https://ibn-naseer.vercel.app/](https://ibn-naseer.netlify.app/)
 
 - ⚡ Fun fact: **I am slow but passionate**
 

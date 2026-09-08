@@ -1,0 +1,100 @@
+<!-- recognizable Staunton-style knight -->
+<g transform="translate(195 190)">
+  <!-- mane / back of head -->
+  <path
+    d="M31 8
+       C22 16 17 28 18 40
+       C19 49 23 57 28 64
+       L19 78
+       L14 92
+       L8 104
+       L8 113
+       L82 113
+       L82 104
+       L74 96
+       L67 90
+       L61 78
+       C68 70 73 60 72 49
+       C71 39 66 31 58 25
+       C54 21 51 16 52 9
+       C45 7 38 7 31 8 Z"
+    fill="#eef0f2"/>
+
+  <!-- horse face -->
+  <path
+    d="M31 8
+       C35 17 40 23 48 27
+       C55 31 59 38 59 46
+       C59 55 54 62 48 67
+       L39 70
+       C34 64 29 56 28 48
+       C27 38 28 27 31 8 Z"
+    fill="#eef0f2"/>
+
+  <!-- horse muzzle -->
+  <path
+    d="M28 48
+       C22 52 19 58 21 63
+       C24 68 32 70 40 70
+       L48 67
+       C42 60 38 53 28 48 Z"
+    fill="#eef0f2"/>
+
+  <!-- ear -->
+  <path
+    d="M32 9 L28 -5 L39 5 Z"
+    fill="#eef0f2"/>
+
+  <!-- second ear -->
+  <path
+    d="M45 8 L50 -3 L54 12 Z"
+    fill="#eef0f2"/>
+
+  <!-- eye -->
+  <circle cx="45" cy="35" r="3" fill="#080a0d"/>
+
+  <!-- nostril -->
+  <circle cx="28" cy="59" r="2" fill="#080a0d"/>
+
+  <!-- mane details -->
+  <path
+    d="M25 17
+       C19 28 19 42 23 53
+       M22 25
+       C17 38 19 51 25 62
+       M27 68
+       C22 77 18 85 17 94"
+    fill="none"
+    stroke="#59636d"
+    stroke-width="3"
+    stroke-linecap="round"/>
+
+  <!-- neck -->
+  <path
+    d="M39 68
+       C48 70 58 68 63 61
+       C66 70 63 80 58 87
+       L68 96
+       L74 104
+       L16 104
+       L23 94
+       L31 86
+       C35 80 38 74 39 68 Z"
+    fill="#eef0f2"/>
+
+  <!-- base -->
+  <path
+    d="M14 96
+       L70 96
+       L79 105
+       L84 115
+       L6 115
+       L10 105 Z"
+    fill="#eef0f2"/>
+
+  <path
+    d="M8 115 H82"
+    stroke="#eef0f2"
+    stroke-width="6"
+    stroke-linecap="round"/>
+</g>

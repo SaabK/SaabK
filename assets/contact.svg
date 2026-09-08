@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260">
+  <rect width="1200" height="260" rx="8" fill="#080a0d"/>
+
+  <!-- radar -->
+  <g transform="translate(170 130)" fill="none" stroke="#59636d">
+    <circle r="95" stroke-width="1"/>
+    <circle r="65" stroke-width="1"/>
+    <circle r="35" stroke="#c7a45d" stroke-width="2"/>
+    <path d="M-110 0H110M0-110V110" stroke-width="1"/>
+    <path d="M0 0L82-55" stroke="#c7a45d" stroke-width="3"/>
+  </g>
+
+  <circle cx="170" cy="130" r="6" fill="#eef0f2"/>
+
+  <g font-family="monospace">
+    <text x="340" y="75" fill="#c7a45d" font-size="13">
+      COMMUNICATION ARRAY / AN-01
+    </text>
+
+    <text x="340" y="120" fill="#eef0f2" font-size="22">
+      OPEN CHANNELS
+    </text>
+
+    <text x="340" y="158" fill="#7f8994" font-size="14">
+      EMAIL
+    </text>
+    <text x="470" y="158" fill="#eef0f2" font-size="14">
+      PRIMARY CHANNEL
+    </text>
+
+    <text x="340" y="190" fill="#7f8994" font-size="14">
+      LINKEDIN
+    </text>
+    <text x="470" y="190" fill="#eef0f2" font-size="14">
+      PROFESSIONAL NETWORK
+    </text>
+
+    <text x="340" y="222" fill="#7f8994" font-size="14">
+      GITHUB
+    </text>
+    <text x="470" y="222" fill="#eef0f2" font-size="14">
+      CODE ARCHIVE
+    </text>
+  </g>
+
+  <g fill="#c7a45d">
+    <circle cx="1080" cy="65" r="3"/>
+    <circle cx="1110" cy="65" r="3"/>
+    <circle cx="1140" cy="65" r="3"/>
+  </g>
+</svg>

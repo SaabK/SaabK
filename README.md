@@ -159,7 +159,7 @@ Most of my repositories are experiments, learning projects and engineering proto
 
 I prefer building something difficult enough that the implementation forces me to understand the underlying idea.
 
-**→ [Explore the repository archive](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)**
+**→ [Explore the repository archive](https://github.com/saabk?tab=repositories)**
 
 <br/>
 
@@ -249,9 +249,9 @@ Long-term planning.
 
 ### OPEN CHANNELS
 
-**EMAIL** · YOUR_EMAIL
+**EMAIL** · aliisworking459@gmail.com
 **LINKEDIN** · [ali-bin-naseer](https://www.linkedin.com/in/ali-bin-naseer/)
-**GITHUB** · [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+**GITHUB** · [SaabK](https://github.com/saabk)
 
 <br/>
 

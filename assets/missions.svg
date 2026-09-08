@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300">
+  <rect width="1200" height="300" rx="8" fill="#080a0d"/>
+
+  <!-- subtle technical grid -->
+  <g stroke="#20262d" stroke-width="1" opacity=".7">
+    <path d="M0 70H1200"/>
+    <path d="M0 150H1200"/>
+    <path d="M0 230H1200"/>
+  </g>
+
+  <!-- heading -->
+  <g font-family="monospace">
+    <text x="60" y="52" fill="#c7a45d" font-size="12" letter-spacing="2">
+      MISSION TRAJECTORY
+    </text>
+    <text x="60" y="72" fill="#59636d" font-size="10">
+      SELECTED PROJECTS / ENGINEERING LOG
+    </text>
+  </g>
+
+  <!-- exact trajectory -->
+  <path
+    d="M100 205
+       C190 80 280 80 350 160
+       C420 240 500 240 570 120
+       C640 0 730 35 790 115
+       C850 195 950 235 1100 155"
+    fill="none"
+    stroke="#c7a45d"
+    stroke-width="2.5"/>
+
+  <!-- trajectory direction markers -->
+  <g fill="#c7a45d">
+    <path d="M300 119 l-12 -5 l5 12z"/>
+    <path d="M530 181 l-12 -2 l7 10z"/>
+    <path d="M750 82 l-11 -5 l4 12z"/>
+    <path d="M980 206 l-9 -8 l1 12z"/>
+  </g>
+
+  <!-- NODE 01 — exactly on trajectory -->
+  <g>
+    <circle cx="100" cy="205" r="8" fill="#080a0d" stroke="#eef0f2" stroke-width="2"/>
+    <circle cx="100" cy="205" r="3" fill="#c7a45d"/>
+
+    <text x="100" y="242" text-anchor="middle"
+          fill="#eef0f2" font-family="monospace" font-size="13">01</text>
+    <text x="100" y="260" text-anchor="middle"
+          fill="#7f8994" font-family="monospace" font-size="10">BLACK HOLE</text>
+    <text x="100" y="276" text-anchor="middle"
+          fill="#59636d" font-family="monospace" font-size="9">C++ / PHYSICS</text>
+  </g>
+
+  <!-- NODE 02 — exactly on trajectory -->
+  <g>
+    <circle cx="350" cy="160" r="8" fill="#080a0d" stroke="#eef0f2" stroke-width="2"/>
+    <circle cx="350" cy="160" r="3" fill="#c7a45d"/>
+
+    <text x="350" y="126" text-anchor="middle"
+          fill="#eef0f2" font-family="monospace" font-size="13">02</text>
+    <text x="350" y="108" text-anchor="middle"
+          fill="#7f8994" font-family="monospace" font-size="10">HEALTH APP</text>
+    <text x="350" y="92" text-anchor="middle"
+          fill="#59636d" font-family="monospace" font-size="9">ANDROID / KOTLIN</text>
+  </g>
+
+  <!-- NODE 03 — exactly on trajectory -->
+  <g>
+    <circle cx="570" cy="120" r="8" fill="#080a0d" stroke="#eef0f2" stroke-width="2"/>
+    <circle cx="570" cy="120" r="3" fill="#c7a45d"/>
+
+    <text x="570" y="82" text-anchor="middle"
+          fill="#eef0f2" font-family="monospace" font-size="13">03</text>
+    <text x="570" y="64" text-anchor="middle"
+          fill="#7f8994" font-family="monospace" font-size="10">UAV</text>
+    <text x="570" y="48" text-anchor="middle"
+          fill="#59636d" font-family="monospace" font-size="9">AEROSPACE</text>
+  </g>
+
+  <!-- NODE 04 — exactly on trajectory -->
+  <g>
+    <circle cx="790" cy="115" r="8" fill="#080a0d" stroke="#eef0f2" stroke-width="2"/>
+    <circle cx="790" cy="115" r="3" fill="#c7a45d"/>
+
+    <text x="790" y="160" text-anchor="middle"
+          fill="#eef0f2" font-family="monospace" font-size="13">04</text>
+    <text x="790" y="178" text-anchor="middle"
+          fill="#7f8994" font-family="monospace" font-size="10">CAD</text>
+    <text x="790" y="194" text-anchor="middle"
+          fill="#59636d" font-family="monospace" font-size="9">MODELLING</text>
+  </g>
+
+  <!-- NODE 05 — exactly on trajectory -->
+  <g>
+    <circle cx="1100" cy="155" r="8" fill="#080a0d" stroke="#eef0f2" stroke-width="2"/>
+    <circle cx="1100" cy="155" r="3" fill="#c7a45d"/>
+
+    <text x="1100" y="198" text-anchor="middle"
+          fill="#eef0f2" font-family="monospace" font-size="13">05</text>
+    <text x="1100" y="216" text-anchor="middle"
+          fill="#7f8994" font-family="monospace" font-size="10">NEXT</text>
+    <text x="1100" y="232" text-anchor="middle"
+          fill="#59636d" font-family="monospace" font-size="9">IN DEVELOPMENT</text>
+  </g>
+
+  <!-- endpoint -->
+  <circle cx="1120" cy="150" r="2" fill="#c7a45d"/>
+</svg>

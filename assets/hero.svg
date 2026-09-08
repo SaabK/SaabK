@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 650">
+  <rect width="1600" height="650" fill="#080a0d"/>
+
+  <!-- technical grid -->
+  <g stroke="#20262d" stroke-width="1" opacity=".65">
+    <path d="M0 110H1600M0 220H1600M0 330H1600M0 440H1600M0 550H1600"/>
+    <path d="M160 0V650M320 0V650M480 0V650M640 0V650M800 0V650M960 0V650M1120 0V650M1280 0V650M1440 0V650"/>
+  </g>
+
+  <!-- stars -->
+  <g fill="#d9dde1">
+    <circle cx="90" cy="82" r="2"/><circle cx="240" cy="160" r="1.5"/>
+    <circle cx="370" cy="68" r="2"/><circle cx="510" cy="190" r="1"/>
+    <circle cx="650" cy="88" r="1.5"/><circle cx="790" cy="150" r="2"/>
+    <circle cx="930" cy="70" r="1"/><circle cx="1080" cy="180" r="1.5"/>
+    <circle cx="1240" cy="92" r="2"/><circle cx="1410" cy="160" r="1.5"/>
+    <circle cx="1510" cy="70" r="1"/>
+    <circle cx="115" cy="520" r="1.5"/><circle cx="300" cy="580" r="2"/>
+    <circle cx="540" cy="500" r="1"/><circle cx="1040" cy="530" r="2"/>
+    <circle cx="1350" cy="500" r="1.5"/><circle cx="1510" cy="570" r="2"/>
+  </g>
+
+  <!-- orbital mechanics -->
+  <g fill="none" stroke="#c7a45d">
+    <ellipse cx="1110" cy="330" rx="380" ry="145" transform="rotate(-18 1110 330)" stroke-width="2"/>
+    <ellipse cx="1110" cy="330" rx="300" ry="105" transform="rotate(24 1110 330)" stroke-width="1" opacity=".55"/>
+    <ellipse cx="1110" cy="330" rx="225" ry="75" transform="rotate(-38 1110 330)" stroke-width="1" opacity=".4"/>
+  </g>
+
+  <!-- central body -->
+  <circle cx="1110" cy="330" r="64" fill="#050608" stroke="#c7a45d" stroke-width="3"/>
+  <circle cx="1110" cy="330" r="82" fill="none" stroke="#c7a45d" stroke-width="1" opacity=".35"/>
+
+  <!-- spacecraft -->
+  <g transform="translate(1370 228) rotate(-20)">
+    <path d="M0 0 L72 18 L0 36 L18 18 Z" fill="#eef0f2"/>
+    <path d="M25 18 L-12 -10 L8 18 L-12 46 Z" fill="#7f8994"/>
+    <circle cx="48" cy="18" r="4" fill="#c7a45d"/>
+  </g>
+
+  <!-- crosshair -->
+  <g stroke="#c7a45d" stroke-width="1">
+    <path d="M1110 220V440M1000 330H1220"/>
+    <circle cx="1110" cy="330" r="96" fill="none" stroke-dasharray="5 8"/>
+  </g>
+
+  <!-- title -->
+  <g fill="#eef0f2" font-family="Arial, Helvetica, sans-serif">
+    <text x="100" y="245" font-size="72" font-weight="700" letter-spacing="5">ALI BIN NASEER</text>
+    <text x="104" y="290" font-size="20" letter-spacing="6" fill="#c7a45d">AEROSPACE ENGINEERING / SOFTWARE / SCIENCE</text>
+    <text x="104" y="345" font-size="16" letter-spacing="2" fill="#7f8994">BUILDING SYSTEMS · STUDYING SYSTEMS · UNDERSTANDING SYSTEMS</text>
+  </g>
+
+  <!-- telemetry -->
+  <g font-family="monospace" font-size="13" fill="#7f8994">
+    <text x="104" y="500">MISSION ID: AN-01</text>
+    <text x="104" y="525">VECTOR: ENGINEERING / COMPUTATION</text>
+    <text x="104" y="550">STATUS: OPERATIONAL</text>
+    <text x="1290" y="530">LAT 24.7136</text>
+    <text x="1290" y="552">LON 46.6753</text>
+  </g>
+
+  <path d="M100 470H520" stroke="#c7a45d" stroke-width="2"/>
+  <path d="M1290 490H1500" stroke="#c7a45d" stroke-width="2"/>
+</svg>

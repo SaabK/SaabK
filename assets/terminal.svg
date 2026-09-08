@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 420">
+  <rect width="1000" height="420" rx="12" fill="#080a0d" stroke="#252c33"/>
+
+  <circle cx="35" cy="32" r="6" fill="#59636d"/>
+  <circle cx="58" cy="32" r="6" fill="#59636d"/>
+  <circle cx="81" cy="32" r="6" fill="#c7a45d"/>
+
+  <text x="125" y="37" fill="#7f8994" font-family="monospace" font-size="13">
+    AN-01 / CODE ARCHIVE
+  </text>
+
+  <g font-family="monospace" font-size="18">
+    <text x="55" y="95" fill="#c7a45d">$</text>
+    <text x="80" y="95" fill="#eef0f2">./build --project black-hole</text>
+
+    <text x="55" y="135" fill="#7f8994">→ compiling physics engine...</text>
+    <text x="55" y="170" fill="#7f8994">→ initializing renderer...</text>
+    <text x="55" y="205" fill="#7f8994">→ calculating gravitational field...</text>
+
+    <text x="55" y="255" fill="#c7a45d">✓ simulation ready</text>
+
+    <text x="55" y="310" fill="#c7a45d">$</text>
+    <text x="80" y="310" fill="#eef0f2">./run --mode experimental</text>
+
+    <text x="55" y="350" fill="#eef0f2">SYSTEM ONLINE</text>
+    <rect x="210" y="334" width="12" height="20" fill="#c7a45d"/>
+  </g>
+</svg>
